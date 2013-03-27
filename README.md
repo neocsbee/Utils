@@ -1,4 +1,4 @@
 Utils
 =====
 
-This repository contains the code I created and used for my course work. The header of each file explains the name and brief description of what it does.
+This repository contains some of the code I created and used in my course work. The header of each file gives the name and a brief description of what it does.
